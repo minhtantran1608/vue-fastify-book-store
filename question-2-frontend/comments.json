@@ -1,0 +1,50 @@
+[
+  {
+    "postId": "64ba90787cdfcbe7e02caedd",
+    "id": "comment1",
+    "content": "This is the first comment"
+  },
+  {
+    "postId": "64ba90787cdfcbe7e02caede",
+    "id": "comment2",
+    "content": "This is the second comment"
+  },
+  {
+    "postId": "64ba90787cdfcbe7e02caedd",
+    "id": "comment4",
+    "content": "This is the third comment"
+  },
+  {
+    "postId": "64ba90787cdfcbe7e02caedd",
+    "id": "comment5",
+    "content": "This is the fourth comment"
+  },
+  {
+    "postId": "64ba90787cdfcbe7e02caedf",
+    "id": "comment3",
+    "content": "This is the third comment"
+  },
+  {
+    "postId": "64ba90787cdfcbe7e02caedd",
+    "id": "comment6",
+    "content": "This is the second comment"
+  },
+  {
+    "postId": "64ba90787cdfcbe7e02caedd",
+    "parentId": "comment1",
+    "id": "comment7",
+    "content": "This is the first reply comment"
+  },
+  {
+    "postId": "64ba90787cdfcbe7e02caedd",
+    "parentId": "comment1",
+    "id": "comment8",
+    "content": "This is the second reply comment"
+  },
+  {
+    "postId": "64ba90787cdfcbe7e02caedd",
+    "parentId": "comment4",
+    "id": "comment9",
+    "content": "This is the third reply comment"
+  }
+]
